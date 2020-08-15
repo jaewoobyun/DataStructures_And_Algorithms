@@ -1,6 +1,6 @@
 # DataStructures_And_Algorithms
 Swift DataStructures and Algorithms
-(/DataStructuresAndAlgorithmsInSwiftBook.png)
+![Data Structures & Algorithms in Swift Book](DataStructuresAndAlgorithmsInSwiftBook.png)
 
 This is my repository for finishing the book DataStructures and Algorithms in Swift 4 by Kevin Lau & Vincent Ngo
 
