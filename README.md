@@ -5,7 +5,7 @@ This is my repository for finishing the book DataStructures and Algorithms in Sw
 
 ## Chapters
 - 01-Preface
-- [02-Swift Standard Library]
+- [02-Swift Standard Library](02-swift-standard-library/)
 - [03-Linked List]
 - [04-Stacks]
 - [05-Queues]
